@@ -13,6 +13,8 @@ public class GraphNode {
 	String color;
 	int distance;
 	GraphNode parent;
+	int start;
+	int end;
 	
 	public GraphNode(int data) {
 		this.data = data;
