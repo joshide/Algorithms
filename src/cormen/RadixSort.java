@@ -1,4 +1,4 @@
-package coreman;
+package cormen;
 
 import java.util.Arrays;
 

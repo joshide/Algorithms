@@ -1,4 +1,4 @@
-package coreman;
+package cormen;
 
 import javax.management.RuntimeErrorException;
 

@@ -1,4 +1,4 @@
-package coreman;
+package cormen;
 
 // There are two ways to represents the graphs
 // 1. Adjacency List : Space Complexity O(V+E)

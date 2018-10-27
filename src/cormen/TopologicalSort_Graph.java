@@ -1,4 +1,4 @@
-package coreman;
+package cormen;
 
 public class TopologicalSort_Graph {
 
