@@ -1,4 +1,4 @@
-package sorting;
+package coreman;
 
 import javax.management.RuntimeErrorException;
 

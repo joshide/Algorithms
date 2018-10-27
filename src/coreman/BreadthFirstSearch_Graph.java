@@ -1,4 +1,4 @@
-package sorting;
+package coreman;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
