@@ -1,20 +1,43 @@
-Coremman
 InsertionSort
 MergeSort
 CountSort
-Min Heap, Max Heap and Heap Sort
-Stack and Queues
-LinkedLists
-Trees
-Graphs
+Inversions using MergeSort
+RadixSort
+Heap : Build Max Heap, Heap Sort
+Minimum Heap and Max Heap
+Priority Queue : CRUD on Max/Minimum Heap
+Stack : Underflow and Overflow
+Queue : Underflow and Overflow, Wrap
+Trees : Insert, Maximum, Minimum, Successor, Predecessor
+Graphs : Adjacency List and Adjacency Matrix
+Breadth First Search : Shortest Distance between two nodes
+Depth First Search
 Topological Sort
-Tries
+Directed and Undirected Graphs
+Maximum profit Problem : Divide and Conquer Technique
+Rod cutting Problem
 
-GeeksForGeeks
-Arrays
-Trees
-LinkedLists
-StackAndQueues
-Graphs
-Tries
+GeeksForGeeks : Arrays
+Sorting
+Binary Search
+Heap data structure
+Self Balancing Binary Tree
+Stack and Queues
+HashMap/HashSet
+Painting Algorithms
+Modulo and Multiplication Technique
+Left sum/multiply arrays and right sum/multiply array
+Moore's Voting Algorithm
+Kandane's Algorithm
 
+
+GeeksForGeeks: Trees
+BST's inorder traversal is always sorted 
+static variables
+stack and queues
+multiple stack and queues
+reverse inorder/preorder/postorder traversal
+recursion bottom to top
+recursion top to bottom
+print string and also return value in a method
+left node , right node values for recursion (both true/false/null etc)
