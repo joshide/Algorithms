@@ -1,0 +1,13 @@
+Each object has a lock which is called intrinsic lock.
+Threads get this lock when they enter the synchronized method of this object and leaves the lock when they leave this synchronized method.
+During the execution if thread goes to sleep, they don't release the lock they have acquired.
+A thread release the lock when wait() method is being called by the thread on the object for which it has acquired the lock.
+It can come out of wait state to runnable state if its get notified by some other thread for the same object.
+Join, Notify, Yield all these method does not release the lock of the object.
+Whenever two or multiple thread share the same object, there can be race condition issues. We need to use synchronizations carefully to avoid these synchronization issues.
+Atomic and Non-Atomic operations
+Static Synchronization and Non-Static Synchronization
+Desired behavior by proper locking(synchronization)/wait/notify
+Thread-safe class
+Thread Safety of the classes which uses these thread-safe class
+Counter++ example and atomic operations

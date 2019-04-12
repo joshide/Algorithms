@@ -1,0 +1,48 @@
+Arrays
+1. Maximum Sum Continuous SubArray
+2. Maximum Sum such that no two elements are adjacent
+3. Painting Algorithms
+4. Multiplication and modulous algorithms
+5. Sum from left, Sum from right
+6. Max Heap
+7. Stack and Queues
+
+Trees:
+Inorder, Preorder, Postorder Traversals
+Reverse Inorder Traversal
+Sum Tree
+BST Tree
+Ancestors
+Level Order Traversal
+Height Without Recursion
+Recursion: Top Bottom and Bottom Top Approach
+
+LinkedList:
+Pairwise Swap
+Reverse LinkedList in group of size K
+Reverse alternate K nodes of a LinkedList
+Detect and remove loop from a linked list
+Data Copy
+Pointer movement
+Previous, Current and Next
+
+Dynamic Programming:
+Recursion
+TopDown or BottomUp
+Choice of choosing and neglecting
+Array building
+Store and subproblems
+
+Graph
+Adjacency List
+Adjacency Matrix
+Breadth First Search
+Depth First Search
+Topological Sort
+Find loop in a graph
+
+M coloring problem
+Trie Basic Operations
+
+Segment Tree
+Trie Basic Operations
