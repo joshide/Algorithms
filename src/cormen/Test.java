@@ -1,26 +1,18 @@
 package cormen;
 
 public class Test {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		Cat cat = new Cat();
-		
-		Animal a = (Animal)cat;
-		//a.sound();
-
-	}
-
-}
-
-
-class Animal {
-	private void sound() {
-		
-	}
-}
-
-class Cat extends Animal {
 	
+	static int a = 10;
+	int b;
+	
+	private static void method1() {
+		a = 20;
+		//b = 40;
+	}
+	
+	private void method2() {
+		a = 20;
+		b = 20;
+	}
+
 }

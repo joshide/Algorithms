@@ -1,67 +1,87 @@
-InsertionSort
-MergeSort
-CountSort
-Build Max Heap and Heap Sort
-Priority Queue
-Tree : Insertion, Successor And Predecessor
-Graphs : BFS and DFS
-Minimum Distance between two nodes and path of this shortest distance
-Topological Sort
-Maximum Profit Problem
-Rod Cutting
+InsertionSort : Done
+MergeSort : Done
+CountSort : Done
+Build Max Heap and Heap Sort : Done
+Priority Queue : Done
+Tree : Insertion, Successor And Predecessor : Done
+Graphs : BFS and DFS : Done
+Minimum Distance between two nodes and path of this shortest distance : Done
+Topological Sort : Done
+Maximum Profit Problem : Done
+Rod Cutting : Done
 
 GeeksForGeeks:
 Arrays:
-Majority Element : Moore's Voting Algorithm
-Largest Sum Contiguous SubArray : Kandane's Algorithm
-Medians of two sorted arrays of same size
-Maximum sum such that no two elements are adjacent
-Check for majority element in sorted array
+Majority Element : Moore's Voting Algorithm : Done
+Largest Sum Contiguous SubArray : Kandane's Algorithm : Done
+Medians of two sorted arrays of same size : Done
+Maximum sum such that no two elements are adjacent : Done
+Check for majority element in sorted array : Done
 Sort an array of Os, 1s and 2s
-Find Duplicates in O(n) time and O(1) extra space
-Given an array arr[] find maximum j-i such that arr[j] > arr[i]
-Sliding Window Maximum
-Count smaller elements on right side
-Maximum Sum Increasing SubSequence
-Longest Increasing SubSequence Size
-Find the two numbers which have odd occurrences in an unsorted array
-Largest Subarray with equal number of zeros and 1s
+Find Duplicates in O(n) time and O(1) extra space : Done
+Given an array arr[] find maximum j-i such that arr[j] > arr[i] : Done
+Sliding Window Maximum : Done
+Count smaller elements on right side : Done
+Maximum Sum Increasing SubSequence : Done
+Longest Increasing SubSequence Size : Done
+Find the two numbers which have odd occurrences in an unsorted array : Done
+Largest Subarray with equal number of zeros and 1s : Done
 Maximum product subarray
-Subset Sum problem
-Rearrange positive and negative with constant extra space such that all negatives are at the front. Relative order of the elements should be the same.
-Find Increasing SubSequnece of length three with maximum product
-MaximumSum Path in two arrays
-Decode a given pattern in two ways
-Ceiling of a number
+Subset Sum problem : Done
+Rearrange positive and negative with constant extra space such that all negatives are at the front. Relative order of the elements should be the same. : Done
+Find Increasing SubSequnece of length three with maximum product : Done
+MaximumSum Path in two arrays : Done
+Decode a given pattern in two ways : Done
+Ceiling of a number : Done
 
 Trees:
-If you are given two traversal sequences can you construct a binary tree?
-LCA in Binary Search Tree and Binary Tree
-A Program to check if a binary tree is BST or not
-Convert an arbitrary binary tree to a tree that holds children sum property
-Diameter of a binary tree
-Inorder, Preorder and Postorder traversal without recursion
-Print all ancestors of a given node. No parent pointer is available.
-Check if a given binary tree is a sum tree
-Connect Nodes at same level
-Populate inorder successor of all nodes
-Find Maximum Sum leaf to root path in a binary tree
-Merge two BST with limited extra space
-Construct special binary tree from given preorder traversal
-Construct BST from given preorder traversal
-Segment Tree : Range Sum Query, Range Minimum Query
-Left view of a tree recursively
-Convert a given binary tree to DLL
-Tree Isomorphism problem
-Iterative method to find heigh of a binary tree
-Difference between sums of odd level and even level of nodes 
-Find the depth of the deepest odd level leaf node
-Check if all the leaves are at same level
-Extract leaves of binary tree in DLL
-Sum of all the numbers that are formed from root to leaf
+If you are given two traversal sequences can you construct a binary tree? : Done
+LCA in Binary Search Tree and Binary Tree : Done
+A Program to check if a binary tree is BST or not : Done
+Convert an arbitrary binary tree to a tree that holds children sum property : Done
+Diameter of a binary tree : Done
+Inorder, Preorder and Postorder traversal without recursion : Done
+Print all ancestors of a given node. No parent pointer is available. : Done
+Check if a given binary tree is a sum tree : Done
+Connect Nodes at same level : Done
+Populate inorder successor of all nodes : Done
+Find Maximum Sum leaf to root path in a binary tree : Done
+Merge two BST with limited extra space : Done
+Construct special binary tree from given preorder traversal : Done
+Construct BST from given preorder traversal : Done
+Segment Tree : Range Sum Query, Range Minimum Query : Done
+Left view of a tree recursively : Done
+Convert a given binary tree to DLL : Done
+Tree Isomorphism problem : Done
+Iterative method to find height of a binary tree : Done
+Difference between sums of odd level and even level of nodes : Done
+Find the depth of the deepest odd level leaf node : Done
+Check if all the leaves are at same level : Done
+Extract leaves of binary tree in DLL : Done
+Sum of all the numbers that are formed from root to leaf : Done
 
 LinkedLists:
-Pairwise swap of elements of SLL
-Reverse a linked list in groups of given size 
-Reverse a linked list in groups of given size 
-Reverse alternate K nodes in a single linked list
+Detect and remove a loop from linked list : Done
+Pairwise swap of elements of SLL : Done
+Reverse a linked list in groups of given size : Done
+Reverse alternate K nodes in a single linked list : Done
+
+
+Dynamic Programming :
+Longest Common Subsequence : Done
+Coin Change: Done
+Edit Distance : Done
+
+Graphs:
+Breadth First Search : Done
+Depth First Search : Done
+Topological Sort : Done
+Detect Cycle in a graph : Done
+m color problem : Done
+hamiltonian cycle : Done
+Connected Components : Done
+
+
+Trie : 
+Insert a pattern in a trie : Done
+Search a pattern in trie : Done

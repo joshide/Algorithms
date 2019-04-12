@@ -9,12 +9,12 @@ package cormen;
 // AdjacenyMatrix is useful when we need to determine fast if there is edge between two vertices
 public class GraphNode {
 	
-	int data;
-	String color;
-	int distance;
-	GraphNode parent;
-	int start;
-	int end;
+	public int data;
+	public String color;
+	public int distance;
+	public GraphNode parent;
+	public int start;
+	public int end;
 	
 	public GraphNode(int data) {
 		this.data = data;
